@@ -5,3 +5,4 @@ git  changes.
 git branch zhaom.
 createing a new branch is quick AND sample.
 createing a new branch and merge with -no-ff.
+my dev git stash.
