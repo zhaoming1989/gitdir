@@ -1,0 +1,10 @@
+//sysctl -w kernel.msgmnb=524288
+//sysctl -w kernel.msgmni=512
+//sysctl -w kernel.msgmax=1024
+
+//msgmax单个消息字节长度最大值
+//magmni消息队列最大数量
+//msgmnb消息队列容器最大字节数
+
+//https://blog.csdn.net/weixin_34367257/article/details/86449982?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_utm_term-2&spm=1001.2101.3001.4242
+
