@@ -1,0 +1,1 @@
+//QThread类必须要在类的开始加上QOBJECT
