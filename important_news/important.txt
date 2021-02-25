@@ -3,3 +3,4 @@
 //输入tftp
 //connect 192.168.3.127
 //get file_name
+3.当R和G线序出问题时，修改上s3c2410fb,s3cfb,s3cTFTP800x480可以调整
